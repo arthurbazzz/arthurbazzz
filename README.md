@@ -18,7 +18,7 @@
    <img align="center" alt="wpp" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png">
 </a>
 
-<a href = "arthurbazzz@gmail.com" target = "_blank">
+<a href = "mailto:arthurbazzz@gmail.com" target = "_blank">
    <img align="center" alt="gmail" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
 </a>
 </div>
