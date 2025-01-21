@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur 🦇
 <!-- sobre mim-->
-  <p> 💬 Atualmente, estou me graduando em Ciência da Computação. Tenho experiência com Java, Spring, HTML, CSS, JavaScript, Bootstrap, PHP e MySQL.</p>
+  <p> 💬 Atualmente, estou me graduando em Ciência da Computação. Tenho experiência com Java, Spring, Angular, JavaScript, Bootstrap, PHP, HTML, CSS e MySQL.</p>
   <p> ✨ Me considero uma pessoa muito criativa e sempre procuro enfrentar novos desafios.</p>
   
 ## Contato
@@ -16,4 +16,4 @@
 
 ## Minhas Habilidades
 <!-- icones -->
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,js,html,css,mysql,bootstrap,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,php,js,html,css,mysql,bootstrap,figma,git,github)](https://skillicons.dev)
