@@ -1,7 +1,7 @@
 # Olá, eu sou o Arthur 🦇
 <!-- sobre mim-->
   <p> 💬 Sou Desenvolvedor de Software na Secretária de Desenvolvimento Econônomico.
-  <p> 🧑🏻‍💻 Possuo sólidas habilidades em Laravel, Nextjs e MySQL./p>
+  <p> 🧑🏻‍💻 Possuo sólidas habilidades em Laravel, Nextjs e MySQL. </p>
   <p> ✨ Me considero uma pessoa muito criativa e sempre procuro enfrentar novos desafios.</p>
   
 ## Contato
